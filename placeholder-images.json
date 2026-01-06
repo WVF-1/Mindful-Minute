@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "badge-first-reflection",
+      "description": "Badge for writing the first reflection",
+      "imageUrl": "https://images.unsplash.com/photo-1643114867031-30e78352a16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxxdWlsbCUyMHBlbnxlbnwwfHx8fDE3NjcyODY4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quill pen"
+    },
+    {
+      "id": "badge-7-day-streak",
+      "description": "Badge for a 7-day streak",
+      "imageUrl": "https://images.unsplash.com/photo-1597768164194-b804b42bd61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYWxlbmRhciUyMHNldmVufGVufDB8fHx8MTc2NzI4NjgxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calendar seven"
+    },
+    {
+      "id": "badge-30-day-streak",
+      "description": "Badge for a 30-day streak",
+      "imageUrl": "https://images.unsplash.com/photo-1718815628185-2ff0f9332b32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYWxlbmRhciUyMHRoaXJ0eXxlbnwwfHx8fDE3NjcyODY4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calendar thirty"
+    },
+    {
+      "id": "badge-10-quotes-saved",
+      "description": "Badge for saving 10 quotes",
+      "imageUrl": "https://images.unsplash.com/photo-1621804298968-5fc664947fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Ym9va3NoZWxmJTIwZnVsbHxlbnwwfHx8fDE3NjcyODY4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bookshelf full"
+    },
+    {
+      "id": "badge-50-quotes-rated",
+      "description": "Badge for rating 50 quotes",
+      "imageUrl": "https://images.unsplash.com/photo-1737317313279-1d09a49b9f29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdGFyJTIwY2hhcnR8ZW58MHx8fHwxNzY3Mjg2ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "star chart"
+    }
+  ]
+}
